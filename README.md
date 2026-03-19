@@ -1,2 +1,3 @@
-# simple-knowledge-base-8pp5
-A knowledge management system for modern development workflows
+# Simple Knowledge Base 8Pp5
+
+A knowledge management system for modern development workflows.
